@@ -1,4 +1,4 @@
-# Curso de Introdução a Python do canal Téo me Why
+# Curso de Introdução a Python
 
 Este repositório contém exemplos e exercícios de Python organizados por temas para facilitar o aprendizado e consulta.
 
